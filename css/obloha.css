@@ -1,0 +1,5 @@
+body {
+    background-image: url("../img/obloha.webp");
+    background-size: cover;
+    background-attachment: fixed;
+}
